@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">bSafe</string>
+
+    <string name="call_police">Call police</string>
+    <string name="add_guardians">Add guardians</string>
+    <string name="show_nearby_police_stations">Nearby police stations</string>
+    <string name="women_safety_tips">Women safety tips</string>
+    <string name="change_language">Change language</string>
+
+    <string name="escape">Escape</string>
+    <string name="self_defense">Self Defense</string>
+    <string name="emergency_numbers">Emergency numbers</string>
+
+    <string name="enter_your_primary_guardian_number">Enter your primary guardian number</string>
+
+    <string name="enter_your_secondary_guardian_number">Enter your secondary guardian number</string>
+    <string name="i_am_in_trouble">I\'m in trouble! %s</string>
+
+    <string name="save">Save</string>
+
+    <string name="out_alone">OUT ALONE</string>
+    <string name="out_alone_tip1">- Avoid isolated areas.</string>
+    <string name="out_alone_tip2">- Be aware of the surroundings.</string>
+    <string name="out_alone_tip3">- Stick to the routes you know well.</string>
+
+    <string name="travelling">TRAVELLING</string>
+    <string name="travelling_tip1">- Tell your family members about where you are going.</string>
+    <string name="travelling_tip2">- Keep your valuables with you.</string>
+    <string name="travelling_tip3">- Don\'t trust people too quickly and stay safe at your lodging.</string>
+
+    <string name="shopping">SHOPPING</string>
+    <string name="shopping_tip1">- Park in well-lit areas close to destination.</string>
+    <string name="shopping_tip2">- Avoid shopping alone.</string>
+    <string name="shopping_tip3">- Do not put your purse in a shopping cart.</string>
+
+    <string name="at_home">AT HOME</string>
+    <string name="at_home_tip1">- Don\'t open to strangers.</string>
+    <string name="at_home_tip2">- Have good door locks, close doors and windows.</string>
+    <string name="at_home_tip3">- Draw curtains and shut blinds at night.</string>
+
+    <string name="in_the_car">IN THE CAR</string>
+    <string name="in_the_car_tip1">- Always lock doors and windows of your car.</string>
+    <string name="in_the_car_tip2">- Avoid poorly lit parking areas.</string>
+    <string name="in_the_car_tip3">- Hold keys in your hands when approaching the car.</string>
+
+    <string name="in_parties">IN PARTIES</string>
+    <string name="in_parties_tip1">- Be ready to help others if necessary.</string>
+    <string name="in_parties_tip2">- Go with friends.</string>
+    <string name="in_parties_tip3">- Limit or avoid alcohol consumption.</string>
+
+    <string name="online">ONLINE</string>
+    <string name="online_tip1">- Don\'t share private photos.</string>
+    <string name="online_tip2">- Don\'t share your location online.</string>
+    <string name="online_tip3">- Don\'t share your personal information with strangers.</string>
+
+    <string name="escape_q1">What should a woman do if she finds herself alone in the company of a strange male as she prepares to enter a lift in a high-rise apartment, late at night?</string>
+    <string name="escape_ans1">Experts say: Enter the lift. If you need to reach the 13th floor, press all the buttons up to your destination. No one will dare attack you in a lift that stops on every floor</string>
+
+    <string name="escape_q2">- What to do if a stranger tries to attack you when you are alone in your house?</string>
+    <string name="escape_ans2">Experts say: Run into the kitchen. You alone know where the chilli powder and turmeric are kept.And where the knives and plates are. All these can be turned into deadly weapons. If nothing else, start throwing plates and utensils all over. Let them break. Scream. Remember that noise is his greatest enemy. He does not want to be caught</string>
+
+    <string name="escape_q3">- Taking an Auto or Taxi at Night.</string>
+    <string name="escape_ans3">Experts say: Before getting into an auto at night, note down its registration number. Then use the mobile to call your family or friend and pass on the details to them in the language the driver understands. Even if no one answers your call, pretend you are in a conversation. The driver now knows someone has his details and he will be in serious trouble if anything goes wrong. He is now bound to take you home safe and sound. A potential attacker is now your de facto protector.</string>
+
+    <string name="escape_q4">- If you are stalked at night.</string>
+    <string name="escape_ans4">Experts say: Enter a shop or house and explain your predicament. If it is night and shops are not open, go inside and ATM box. ATM centers always have security guards. They are also monitored by close circuit television. Fearing identification, no one will dare attack you. After all, being mentally alert is the greatest weapon you can ever have.</string>
+
+    <string name="escape_q5">- What if the driver turns into a street he is not supposed to -and you feel you are entering danger zone?</string>
+    <string name="escape_ans5">Experts say: Use the handle of your purse or your stole(duppata) to wrap around his neck and pull him back. Within seconds, he will feel choked and helpless. In case you don\t have a purse or stole just pull him back by his collar. The top button of his shirt would then do the same trick.</string>
+
+    <string name="emergency_ambulance">Call ambulance 108</string>
+    <string name="emergency_women_helpline">Call Women helpline 1091</string>
+    <string name="emergency_NCW">Call NCW 011–26942369</string>
+    <string name="emergency_helpline">Call Emergency helpline 112</string>
+
+    <string name="self_defense_one">Grab the elbow</string>
+    <string name="self_defense_two">Grab the right leg, turn them around and their neck</string>
+    <string name="self_defense_three">Kick their knee</string>
+    <string name="self_defense_four">Grab their gun</string>
+</resources>

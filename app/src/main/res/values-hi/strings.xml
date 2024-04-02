@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">bSafe</string>
+
+    <string name="call_police">पुलिस को बुलाओ</string>
+    <string name="add_guardians">अभिभावक जोड़ें</string>
+    <string name="show_nearby_police_stations">आस-पास के पुलिस स्टेशन</string>
+    <string name="women_safety_tips">महिला सुरक्षा के उपाय</string>
+    <string name="change_language">भाषा बदलो</string>
+
+    <string name="escape">पलायन</string>
+    <string name="self_defense">आत्मरक्षा</string>
+    <string name="emergency_numbers">आपातकालीन नंबर</string>
+
+    <string name="enter_your_primary_guardian_number">अपना प्राथमिक अभिभावक नंबर दर्ज करें</string>
+
+    <string name="enter_your_secondary_guardian_number">अपना द्वितीयक अभिभावक संख्या दर्ज करें</string>
+    <string name="i_am_in_trouble">मैं परेशानी में हूं! %एस</string>
+
+
+    <string name="save">बचाना</string>
+
+    <string name="out_alone">अकेले बाहर</string>
+    <string name="out_alone_tip1">- पृथक क्षेत्रों से बचें.</string>
+    <string name="out_alone_tip2">- आसपास के बारे में जागरूक रहें.</string>
+    <string name="out_alone_tip3">- उन मार्गों पर टिके रहें जिन्हें आप अच्छी तरह जानते हैं.</string>
+
+    <string name="travelling">यात्रा का</string>
+    <string name="travelling_tip1">- अपने परिवार के सदस्यों को बताएं कि आप कहां जा रहे हैं.</string>
+    <string name="travelling_tip2">- अपना कीमती सामान अपने पास रखें.</string>
+    <string name="travelling_tip3">-लोगों पर जल्दी भरोसा न करें और अपने आवास पर सुरक्षित रहें.</string>
+
+    <string name="shopping">खरीदारी</string>
+    <string name="shopping_tip1">- गंतव्य के पास अच्छी रोशनी वाले क्षेत्रों में पार्क करें.</string>
+    <string name="shopping_tip2">- अकेले शॉपिंग करने से बचें.</string>
+    <string name="shopping_tip3">- अपने पर्स को शॉपिंग कार्ट में न रखें.</string>
+
+    <string name="at_home">घर पर</string>
+    <string name="at_home_tip1">- अजनबियों के लिए मत खोलो.</string>
+    <string name="at_home_tip2">- दरवाजे के ताले अच्छे हों, दरवाजे और खिड़कियाँ बंद रखें.</string>
+    <string name="at_home_tip3">- रात में पर्दे लगाएं और अंधा बंद करें.</string>
+
+    <string name="in_the_car">कार में</string>
+    <string name="in_the_car_tip1">- अपनी कार के दरवाजे और खिड़कियां हमेशा बंद रखें.</string>
+    <string name="in_the_car_tip2">- खराब रोशनी वाले पार्किंग क्षेत्रों से बचें.</string>
+    <string name="in_the_car_tip3">- कार के पास आते समय अपने हाथों में चाबियां पकड़ें.</string>
+
+    <string name="in_parties">पार्टियों में</string>
+    <string name="in_parties_tip1">- जरूरत पड़ने पर दूसरों की मदद के लिए तैयार रहें.</string>
+    <string name="in_parties_tip2">- दोस्तों के साथ जाओ.</string>
+    <string name="in_parties_tip3">- शराब का सेवन सीमित करें या उससे बचें.</string>
+
+    <string name="online">ऑनलाइन</string>
+    <string name="online_tip1">- निजी तस्वीरें साझा न करें.</string>
+    <string name="online_tip2">- अपना स्थान ऑनलाइन साझा न करें.</string>
+    <string name="online_tip3">- अपनी व्यक्तिगत जानकारी अजनबियों के साथ साझा न करें.</string>
+
+    <string name="escape_q1">एक महिला को क्या करना चाहिए यदि वह देर रात किसी बहुमंज़िला अपार्टमेंट की लिफ्ट में प्रवेश करने की तैयारी कर रही हो और अपने आप को किसी अजनबी पुरुष के साथ अकेला पाती है?</string>
+    <string name="escape_ans1">विशेषज्ञ कहते हैं: लिफ्ट में प्रवेश करें। अगर आपको 13वीं मंजिल तक पहुंचना है, तो अपने गंतव्य तक के सभी बटन दबाएं। हर मंजिल पर रुकने वाली लिफ्ट में कोई आप पर हमला करने की हिम्मत नहीं करेगा</string>
+
+    <string name="escape_q2">जब आप अपने घर में अकेले हों तो कोई अजनबी आप पर हमला करने की कोशिश करे तो क्या करें??</string>
+    <string name="escape_ans2">विशेषज्ञ कहते हैं: रसोई में भागो। आप ही जानते हैं कि मिर्च पाउडर और हल्दी कहाँ रखी है। और चाकू और प्लेट कहाँ हैं। इन सभी को घातक हथियारों में बदला जा सकता है। और कुछ नहीं तो थाली-बर्तन इधर-उधर फेंकना शुरू कर दो। उन्हें टूटने दो। चीख। याद रखें कि शोर उसका सबसे बड़ा दुश्मन है। वह पकड़ा नहीं जाना चाहता</string>
+
+    <string name="escape_q3">रात में ऑटो या टैक्सी लेना.</string>
+    <string name="escape_ans3">विशेषज्ञ कहते हैं: रात में ऑटो में बैठने से पहले उसका रजिस्ट्रेशन नंबर नोट कर लें। फिर अपने परिवार या मित्र को कॉल करने के लिए मोबाइल का उपयोग करें और चालक को समझ में आने वाली भाषा में उन्हें विवरण दें। यहां तक कि अगर कोई भी आपकी कॉल का जवाब नहीं देता है, तो दिखावा करें कि आप बातचीत कर रहे हैं। ड्राइवर अब जानता है कि किसी के पास उसका विवरण है और अगर कुछ भी गलत हुआ तो वह गंभीर संकट में पड़ जाएगा। वह अब आपको सुरक्षित और स्वस्थ घर ले जाने के लिए बाध्य है। एक संभावित हमलावर अब आपका वास्तविक रक्षक है।</string>
+
+    <string name="escape_q4">अगर रात में आपका पीछा किया जाता है.</string>
+    <string name="escape_ans4">विशेषज्ञ कहते हैं: एक दुकान या घर में प्रवेश करें और अपनी स्थिति स्पष्ट करें। अगर रात है और दुकानें नहीं खुली हैं तो अंदर जाकर एटीएम बॉक्स में जाएं। एटीएम केंद्रों में हमेशा सुरक्षा गार्ड होते हैं। क्लोज सर्किट टेलीविजन से भी उन पर नजर रखी जाती है। पहचान के डर से कोई आप पर हमला करने की हिम्मत नहीं करेगा। आखिरकार, मानसिक रूप से सतर्क रहना ही आपके पास सबसे बड़ा हथियार हो सकता है।</string>
+
+    <string name="escape_q5">क्या होगा यदि ड्राइवर एक ऐसी गली में मुड़ता है जिसे वह नहीं चाहता है - और आपको लगता है कि आप खतरे के क्षेत्र में प्रवेश कर रहे हैं?</string>
+    <string name="escape_ans5">विशेषज्ञ कहते हैं: अपने पर्स के हैंडल या अपने दुपट्टे का इस्तेमाल उसके गले में लपेटने और उसे वापस खींचने के लिए करें। सेकंड के भीतर, वह घुटा हुआ और असहाय महसूस करेगा। यदि आपके पास पर्स या स्टोल नहीं है तो बस उसे उसके कॉलर से पीछे खींच लें। उसकी शर्ट का ऊपर का बटन फिर वही चाल चलेगा।
+</string>
+
+
+    <string name="emergency_ambulance">एम्बुलेंस 108 पर कॉल करें</string>
+    <string name="emergency_women_helpline">महिला हेल्पलाइन 1091 पर कॉल करें</string>
+    <string name="emergency_NCW">एनसीडब्ल्यू को 011-26942369 पर कॉल करें
+</string>
+    <string name="emergency_helpline">आपातकालीन हेल्पलाइन 112 पर कॉल करें
+</string>
+
+    <string name="self_defense_one">कोहनी को पकडे
+</string>
+    <string name="self_defense_two">दाहिना पैर पकड़ें, उन्हें चारों ओर और उनकी गर्दन को घुमाएं
+</string>
+    <string name="self_defense_three">उनके घुटने पर लात मारो
+</string>
+    <string name="self_defense_four">उनकी बंदूक पकड़ो
+</string>
+
+</resources>

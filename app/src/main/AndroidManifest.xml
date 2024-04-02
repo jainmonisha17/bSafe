@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.monisha.bsafe">
+    <!-- To show nearby police stations -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- To request location permissions -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BSafe"
+        tools:targetApi="31">
+        <activity
+            android:name=".guardians.AddGuardiansActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".BaseLanguageLoaderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".policestation.ShowPoliceStationsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tips.TipsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".selfdefense.SelfDefenseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.HomeActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.BSafe.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service
+            android:name=".sendmessage.NotificationService"
+            android:enabled="true"
+            android:foregroundServiceType="location" />
+    </application>
+
+</manifest>
