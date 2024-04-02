@@ -5,7 +5,7 @@ Android application that sends an emergency message, along with location to guar
 ![Poster](project_materials/poster.jpg)
 
 # Demo
-[![Video](project_materials/video.mp4)](https://www.youtube.com/watch?v=UIgyPF_AUyg) 
+[![Video of the bSafe App](project_materials/video.mp4)](https://www.youtube.com/watch?v=UIgyPF_AUyg) 
 
 # Abstract
 
