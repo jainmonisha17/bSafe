@@ -7,6 +7,9 @@ Android application that sends an emergency message, along with location to guar
 # Demo
 [![Video of the bSafe App](project_materials/video.mp4)](https://www.youtube.com/watch?v=UIgyPF_AUyg) 
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=UIgyPF_AUyg)
+
+
 # Abstract
 
 "bSafe" is a safety application addressing global women's safety concerns, featuring alert messaging, auto-calling, and GPS-based location sharing. Its self-defense and SMS alert functionalities ensure swift aid by notifying guardians and providing nearby police station details.
