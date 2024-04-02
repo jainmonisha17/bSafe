@@ -17,21 +17,21 @@ women. Security alert apps on smartphones mitigate risks for solo travelers, esp
 
 # Proposed Solution 
 
-This app aims to ensure women's safety via smartphones, recognizing the ubiquity of mobile devices in modern life. Despite legislative efforts following cases like Delhi's Nirbhaya, women's crime rates persist, emphasizing the importance of proactive safety measures over reliance solely on legal reforms.
+This app aims to ensure women's safety via smartphones, recognizing the ubiquity of mobile devices in modern life. Despite legislative efforts following cases like Delhi's Nirbhaya, women's crime rates persist, emphasizing the importance of proactive safety measures over-reliance solely on legal reforms.
 
 # Features of the bSafe Application
 
 1. Finds GPS Location.
 2. Shows Notification that the app is running.
 3. Message to guardians or closed ones(max 2)
-4. Call primary guardian
+4. Call the primary guardian
 5. Call Police directly(100)
-6. Find Nearby Police Stations according to the current location of the user.
-7. Get Nearby Police Stations phone number along with its location.
+6. Find Nearby Police Stations according to the user's current location.
+7. Get the Nearby Police Station's phone number and location.
 8. Self-defense tips.
 9. Escape stratagies.
 10. Multiple languages support(English, Hindi, Kannada, Telugu).
-11. Self-defense gif's.
+11. Self-defense gifs.
 12. Emergency Numbers like Women Helpline Number, Ambulance Number etc.
 
 
@@ -72,11 +72,11 @@ Utilizing Android app development, this application prioritizes women's safety b
 
 1. It works even if the screen is locked.
 2. It works even if other apps are being used.
-3. This app won’t ask for any specific user details like phone number, email address.
-4. Privacy is more concern as it is privacy first app.
+3. This app won’t ask for any specific user details like phone number, or email address.
+4. Privacy is more concern as it is a privacy-concern app.
 5. Shake detection for calling guardians in case of distress.
 6. No changes for other existing applications.
-7. Users just need an android phone, internet connection, and location access to make it operational.
+7. Users just need an Android phone, internet connection, and location access to make it operational.
 
 
 # Hardware Specification
@@ -88,12 +88,7 @@ Utilizing Android app development, this application prioritizes women's safety b
 | Memory (RAM)  | 8GB     |
 | Hard Disk  | 120GB   |
 
-
-
-
-
 # Software Specification
-
 
 | Specification      | Desired Value |
 | ----------- | ----------- |
@@ -106,7 +101,5 @@ Utilizing Android app development, this application prioritizes women's safety b
 | Graphics package  | Not used   |
 | Software Type  | Java 8 |
 
-
 # Users
-
-Any User with an Android phone can use it. Here the application is focusing mainly on Women Safety.
+Any User with an Android phone can use it. Here the application is focusing mainly on Women's Safety.
